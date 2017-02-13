@@ -1,10 +1,10 @@
 {
   "eventStore": {
-    "host": "104.155.38.175",
+    "host": "130.211.110.193",
     "port": 1113
   },
   "broker": {
-    "host": "35.187.58.210",
+    "host": "192.158.31.122",
     "port": 8080,
     "realm": "com.weareadaptive.reactivetrader"
   }
